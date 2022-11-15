@@ -53,3 +53,5 @@ In this project we would onboard 20 new Linux users onto a server and create a s
 <br>
 
 Test a few of the users randomly, and ensure that you are able to connect to the server using the private key and the public key
+
+Video Link to Demo:  [Aux scripting test video](https://drive.google.com/file/d/1Yl7ENFbIrLVtuylc93rmVYrXaiYbFO3V/view?usp=share_link)
